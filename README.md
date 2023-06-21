@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Egod3
-- 👀 I’m interested in Rust C Python
+- 👋 Hi, I’m Ezra
+- 👀 I’m interested in Rust, C, & Python
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Rust/C projects
 - 📫 How to reach me ...
